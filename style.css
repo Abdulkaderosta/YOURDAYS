@@ -119,10 +119,11 @@
     background-color: #fff;
     width: 21.25em;
     box-shadow: 0 5px 25px  rgba(1 1 1 / 15%);
-    border-radius: 10px;
-    padding: 20px;
+    border-radius: 20px;
+    padding: 0px;
     margin: 15px;
     transition: 0.7s ease;
+    border: 0px solid #fff;
   }
   
   .card:hover {
@@ -130,8 +131,9 @@
   }
   
   .img {
-     display: flex;
-     justify-content: center;
+    display: flex;
+    justify-content: center;
+    border-radius: 20px;
      
   }
   
@@ -174,7 +176,7 @@
     opacity: 0.9;
   }
   .room-image img{
-    width: 100%; 
+    width:; 
   }
   
   .room-info {
