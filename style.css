@@ -10,7 +10,7 @@
   }
   header{
     background-color: #f0f0f0;
-    width: 80%;
+    width: 100%;
     position: fixed;
     z-index: 999;
     display: flex;
@@ -93,6 +93,8 @@
   }
   .social-icons a {
     padding-right: 30px;
+    color: #fff;
+    font-size: 1.7em;
   }
   
   .title {
