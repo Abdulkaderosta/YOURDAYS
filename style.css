@@ -23,12 +23,14 @@
     text-decoration: none;
     font-weight:700;
     font-size: 1.8em;
+    text-shadow: 2px 2px 5px #ebc834;
   }
   .navigation a{
     color: #000;
     text-decoration: none;
     font-size:1.1em;
     padding-left: 30px;
+    text-shadow: 2px 2px 2px #e5b73b;
   }
   .navigation a:hover{
     color:#ebc834;
@@ -104,6 +106,7 @@
     font-size: 2.2em;
     font-weight:800;
     margin-bottom: 30px;
+    text-shadow: 2px 2px 5px #601cfc;
     
   }
   
